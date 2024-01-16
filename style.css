@@ -1,0 +1,22 @@
+.root-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 100px;
+}
+
+.orange{
+    color: orange;
+}
+
+.blue{
+    color: white;
+}
+
+.green{
+    color: green;
+}
+body{
+    background-color: aqua;
+}
